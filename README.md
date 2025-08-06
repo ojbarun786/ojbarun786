@@ -1,6 +1,6 @@
-# 👨‍💻 Barun Ojha – IT Portfolio <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# 👨‍💻 Hi there, I'm Barun <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Hi, I'm Barun Ojha – an experienced IT Support Engineer with over 3 years of hands-on work across Australia and Nepal. I specialize in solving real-world technical issues including hardware troubleshooting, networking, system setup, and end-user support.
+I'm Barun Ojha – an experienced IT Support Engineer with over 3 years of hands-on work across Australia and Nepal. I specialize in solving real-world technical issues including hardware troubleshooting, networking, system setup, and end-user support.
 
 ---
 
